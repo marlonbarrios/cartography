@@ -1,5 +1,4 @@
 
-# Cartography
 
 Cartography reduces living territories to lines and colors, tracing borders and routes that not only describe but redraw territories under logics of power. During colonization, a stroke on paper legitimized borders, titles, and concessions, invisibilizing those who inhabited those places. In this way, modern cartography consolidated itself as an instrument of control and dispossession, erasing local worldviews.
 
